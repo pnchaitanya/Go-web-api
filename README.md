@@ -1,1 +1,2 @@
-# Go-web-api
+# GoWebAPI
+Example Go web API
